@@ -1,8 +1,8 @@
 # 🚀 Light Implementation
 A SDL2 Light basic implementation of light point.
 
-The current code make a basic light like this:
-![BASIC LIGHT IMPLEMENTATION EXAMPLE](assets/example.png)
+The current code make a basic light like this: <br/>
+![BASIC LIGHT IMPLEMENTATION EXAMPLE](assets/example.png) <br/>
 I been working on this project to understand better about lights and shadows in 2D games.
 
 ## 📦 Instalation
